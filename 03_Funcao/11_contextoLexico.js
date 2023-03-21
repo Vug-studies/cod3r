@@ -9,4 +9,4 @@ function exec() {
     minhaFuncao()
 }
 
-exec()
+exec() //test
